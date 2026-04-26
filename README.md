@@ -19,7 +19,7 @@ I'm a **Software Engineering student** at İstanbul Sağlık ve Teknoloji Ünive
 - 🏆 Won **"Selected Project"** award at Ford Otosan & Kodluyoruz with Global Water Usage Analysis
 - 👁️ Specialized in **Computer Vision** with YOLOv8 and deep learning
 - 🌍 Active in **AIESEC** (Global Talent) & **GDG on Campus YTU** (Core Team Member)
-- 📚 Continuously learning: IBM AI4Future, AWS Cloud, and more
+- 📚 Continuously learning: AI, AWS Cloud, and more
 
 ---
 
