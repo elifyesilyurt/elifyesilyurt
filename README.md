@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Elif%20Ye%C5%9Filyurt&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# 👩‍💻 Elif Yeşilyurt
+### Software Engineering Student · AI & Computer Vision Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elif%20Yeşilyurt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifyesilyurtt/)
 [![Gmail](https://img.shields.io/badge/Gmail-elifyesilyurt000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifyesilyurt000@gmail.com)
-[![Location](https://img.shields.io/badge/📍-İstanbul%2C%20Türkiye-gray?style=for-the-badge)](https://www.google.com/maps/place/Istanbul)
+[![Location](https://img.shields.io/badge/📍_İstanbul-Türkiye-20B2AA?style=for-the-badge)](https://www.google.com/maps/place/Istanbul)
 
 </div>
 
@@ -12,15 +13,13 @@
 
 ## 👩‍💻 About Me
 
-> *"Teorik bilgiyi yenilikçi çıktılara dönüştürme yetkinliğine sahibim."*
-
 I'm a **Software Engineering student** at İstanbul Sağlık ve Teknoloji Üniversitesi (100% English, GPA: 3.75/4.00), passionate about building AI-driven systems that solve real problems.
 
-- 🔬 Currently developing **FlowStateAI** — a cognitive load management system 
+- 🔬 Currently developing **FlowStateAI** — a cognitive load management system
 - 🏆 Won **"Selected Project"** award at Ford Otosan & Kodluyoruz with Global Water Usage Analysis
 - 👁️ Specialized in **Computer Vision** with YOLOv8 and deep learning
 - 🌍 Active in **AIESEC** (Global Talent) & **GDG on Campus YTU** (Core Team Member)
-- 📚 Continuously learning: AI, AWS Cloud, and more
+- 📚 Continuously learning: IBM AI4Future, AWS Cloud, and more
 
 ---
 
@@ -119,7 +118,5 @@ Data analysis project using the **FAO AQUASTAT** dataset, awarded among all seme
 ### 💬 Let's connect and build something impactful together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifyesilyurtt/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=100&section=footer" width="100%"/>
 
 </div>
