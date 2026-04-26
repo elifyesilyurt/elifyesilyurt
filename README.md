@@ -12,6 +12,7 @@
 
 ## 👩‍💻 About Me
 
+> *"Teorik bilgiyi yenilikçi çıktılara dönüştürme yetkinliğine sahibim."*
 
 I'm a **Software Engineering student** at İstanbul Sağlık ve Teknoloji Üniversitesi (100% English, GPA: 3.75/4.00), passionate about building AI-driven systems that solve real problems.
 
@@ -52,11 +53,10 @@ I'm a **Software Engineering student** at İstanbul Sağlık ve Teknoloji Ünive
 ## 🚀 Featured Projects
 
 ### 🧠 FlowStateAI — Cognitive Load Management System
-> **Nov 2025 – Present **
+> **Nov 2025 – Present**
 
 An AI-powered system that analyzes users' mental workload in real time using **passive sensing** technologies.
 - Designed architecture for real-time cognitive load monitoring
-- Submitted to **TÜBİTAK** for evaluation with its innovative approach
 - Stack: Python, AI/ML, Passive Sensing Technologies
 
 ---
