@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Engineering student** at İstanbul Sağlık ve Teknoloji Üniversitesi (100% English, GPA: 3.75/4.00), passionate about building AI-driven systems that solve real problems.
+I'm a **Software Engineering student** at Istanbul Health ve Technology Universty (100% English, GPA: 3.75/4.00), passionate about building AI-driven systems that solve real problems.
 
 - 🔬 Currently developing **FlowStateAI** — a cognitive load management system
 - 🏆 Won **"Selected Project"** award at Ford Otosan & Kodluyoruz with Global Water Usage Analysis
